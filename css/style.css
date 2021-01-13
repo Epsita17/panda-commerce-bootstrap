@@ -4,6 +4,7 @@
 .panda-card-footer{
     background-color: white;
     border: 0;
+    
 }
 .categories img{
     width: 100px;
@@ -12,3 +13,10 @@
     background-color:#fceae8 ;
     border-radius: 1em;
 }
+.subscribe-item{
+    background-color:#fceae8 ;
+    border-radius: 1em;
+
+}
+
+
